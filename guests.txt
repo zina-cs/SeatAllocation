@@ -1,0 +1,12 @@
+zina, z@gmail.com
+nona, n@gmail.com
+joe, j@gmail.com
+yousef, y@gmail.com
+maria, m@gmail.com
+ra, r@gmail.com
+ab, a@gmail.com
+ja=, ja@gmail.com
+cat, c@gmail.com
+dog, d@gmail.com
+horse, h@gmail.com
+sha, sh@gmail.com
